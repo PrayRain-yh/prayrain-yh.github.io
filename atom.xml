@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://prayrain-yh.github.io</id>
     <title>祈雨</title>
-    <updated>2021-02-20T07:51:08.173Z</updated>
+    <updated>2021-02-20T09:57:36.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://prayrain-yh.github.io"/>
     <link rel="self" href="https://prayrain-yh.github.io/atom.xml"/>
@@ -10,27 +10,4 @@
     <logo>https://prayrain-yh.github.io/images/avatar.png</logo>
     <icon>https://prayrain-yh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 祈雨</rights>
-    <entry>
-        <title type="html"><![CDATA[网址收藏夹]]></title>
-        <id>https://prayrain-yh.github.io/post/miass/</id>
-        <link href="https://prayrain-yh.github.io/post/miass/">
-        </link>
-        <updated>2020-02-03T18:31:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>收藏精美有用的网站</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>收藏精美有用的网站</p>
-<!--more-->
-<h2 id="开源矢量图">开源矢量图</h2>
-<p><a href="https://www.manypixels.co/gallery/">manyoixels</a></p>
-<p><a href="https://undraw.co/illustrations">undraw</a></p>
-<h2 id="高质量相片壁纸">高质量相片壁纸</h2>
-<p><a href="https://www.pexels.com/">pexels</a></p>
-<p><a href="https://pixabay.com/zh/illustrations/">高清免费图片</a></p>
-<p><a href="https://folio.procreate.art/showcase/popular">procreate社区</a></p>
-<p><a href="https://m.pixivic.com/dailyRank?VNK=7610e7f4">pixiv 免会员搜索站</a></p>
-<p><a href="https://www.vmgirls.com/">少女相册</a></p>
-<h2 id="学习">学习</h2>
-<p><a href="https://lib-nuanxin.wqxuetang.com">文思学堂</a></p>
-]]></content>
-    </entry>
 </feed>
